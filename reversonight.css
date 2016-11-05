@@ -1,0 +1,133 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+@-moz-document url-prefix("http://context2.reverso.net/")
+  {
+
+body, .wrapper-main, #footer, #container, .content-main, #wrapper {
+  background: #222222;
+}
+
+h1, span, dd, i, li, p, div, ul.ul_grouptranslation li.menu entry, div.suggestion li.menu entry, #translation-box {
+  color: #9A9A9A !important;
+}
+
+#header .title-head h2, #container h3 {
+  color: #4183C4;
+}
+
+th {
+  color: #C2AE84;
+}
+
+b {
+  color: #ccc;
+    }
+
+a {
+  color: #000000 !important;
+}
+
+a:visited {
+  color: #ccc !important;
+}
+
+a:link {
+  color: #ccc !important;
+  font-weight: bold !important;
+}
+
+a:hover, a:hover span {
+  color: #fff !important;
+  text-decoration: underline !important;
+}
+
+div.logo a, span.info_show_all, #reverseNew, img, .languageRow .jp-play-sound, .first-arrow-off, .prev-arrow-off, .last-arrow-on, .next-arrow-on, .first-arrow-on, .prev-arrow-on {
+  -webkit-filter: invert(90.5%) hue-rotate(180deg) saturate(200%) !important;
+  filter: invert(90.5%) hue-rotate(180deg) saturate(200%) !important;
+}
+
+.top-header, .ui-multiselect.lang_pair, .ui-multiselect.lang_pair:hover {
+  background: #181818 !important;
+  color: #181818 !important;
+  border: 1px solid #222222 !important;
+}
+
+#container .content-main a:hover {
+  text-decoration: underline !important;
+}
+
+#search .text input, #searchNew .text input, .suggestion li.menu, #grouptranslation li.menu {
+  background-color: #181818 !important;
+  border: 1px solid #222222 !important;
+  color: #9A9A9A !important;
+}
+
+input, select, textarea {
+background-color: #8498C3 !important;
+}
+
+a:hover, a:hover span {
+  color: #9A9A9A !important;
+}
+
+li:hover {
+  color: #9A9A9A !important;
+  background: none !important;
+}
+
+#footer .footer-main, .suggestion {
+  background-color: #181818;
+}
+
+.ui-icon ui-icon-triangle-2-n-s {
+  color: white !important;
+}
+
+#findNew {
+  border-radius: 10px;
+}
+
+#findNew:hover {
+   -webkit-filter: invert(90.5%) hue-rotate(180deg) saturate(200%) sepia(0.75); !important;
+  filter: invert(90.5%) hue-rotate(5deg) saturate(100%) sepia(0.20); contrast(8.20); !important;
+}
+
+#filter_results {
+	margin-right: -40px;
+}
+
+.top-form-icon {
+  -webkit-filter: invert(20.5%) hue-rotate(90deg) sepia(0.20); !important;
+ filter: invert(20.5%) hue-rotate(5deg) sepia(0.20); contrast(8.20); !important;
+}
+
+#results .languageBox.source p, #results .languageBox.target p {
+  font-weight: bold;
+}
+
+span.sel {
+  background-color: transparent;
+  text-shadow: 2px 2px 8px #F09420;
+  text-decoration: underline;
+}
+
+div.mobileBanner {
+  display: none;
+}
+
+.content-main .pix-main {
+  display: none;
+}
+
+.languageRow.result:hover {
+	background-color: #181818;
+}
+
+label {
+  display: none;
+}
+
+
+/* Created by Spidersouris
+https://spidersouris.github.io/
+https://github.com/Spidersouris/Reverso-Night/
+All rights reserved */
