@@ -1,20 +1,18 @@
 # Reverso-Night
 
-### Because everyone wants all of their webpages to be dark.
+### Because everyone wants all of their web pages to be dark.
 
-![Reverso Context Dark Theme Preview](https://puu.sh/s7kO5/f4af255c3a.png)
+![Reverso Context Dark Theme Preview](https://i.imgur.com/e7FlyzV.png)
 
-# Installation (Firefox only for now)
+# Installation
 
-1. Download Stylish [here](https://addons.mozilla.org/en-US/firefox/addon/stylish/)
+1. Download Stylus ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) / [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en)).
 
-2. Write "about:addons" in the Firefox search bar
+2. In the top right bar of your browser, click on the blue "S" icon.
 
-3. Click on "User Styles" (the one with the S logo)
+3. Click on "Manage" and "Write new style".
 
-4. Click on "Write New Styles"
-
-5. Copy/Paste the content of reversonight.css and click on "Save"
+4. Copy/Paste the content of [reversonight.css](https://github.com/Spidersouris/Reverso-Night/blob/master/reversonight.css), enter a name for this style and click on "Save".
 
 # WARNING
 
