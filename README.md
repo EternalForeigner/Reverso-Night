@@ -12,7 +12,7 @@
 
 3. Click on "Manage" and "Write new style".
 
-4. Copy/Paste the content of [reversonight.css](https://github.com/Spidersouris/Reverso-Night/blob/master/reversonight.css), enter a name for this style and click on "Save".
+4. Copy/Paste the content of [reversonight.css](https://raw.githubusercontent.com/Spidersouris/Reverso-Night/master/reversonight.css), enter a name for this style and click on "Save".
 
 # WARNING
 
