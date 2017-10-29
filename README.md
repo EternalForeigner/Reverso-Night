@@ -12,7 +12,11 @@
 
 3. Click on "Manage" and "Write new style".
 
-4. Copy/Paste the content of [reversonight.css](https://raw.githubusercontent.com/Spidersouris/Reverso-Night/master/reversonight.css), enter a name for this style and click on "Save".
+4. Copy/Paste the content of [reversonight.css](https://raw.githubusercontent.com/Spidersouris/Reverso-Night/master/reversonight.css).
+
+5. Click on "Specify" at the bottom, choose "URLs starting with" and paste `http://context.reverso.net` in the text area next to the dropdown.
+
+6. On the left side, enter a name for this style and click on "Save".
 
 # WARNING
 
