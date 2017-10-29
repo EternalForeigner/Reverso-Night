@@ -16,9 +16,9 @@
 
 # WARNING
 
-Please note that I'm not a CSS-pro and that this CSS file is provided as is. There may or may be not updates in the near future. 
+Please note that I'm not a CSS-pro and that this CSS file is provided as is. There may or may not be updates in the future. 
 
-For now, this style only works on [Reverso Context 2](http://context2.reverso.net/) and not on Reverso Context or other Reverso-related websites. However, it may change in the future if I'm motivated or if some users want to do it. 
+For now, this style only works on [Reverso Context](http://context.reverso.net/) and not on other Reverso-related websites. However, it may change in the future if I'm motivated or if some users want to do it. 
 
 For any bugs or issues, please [create an issue](https://github.com/Spidersouris/Reverso-Night/issues/new).
 
