@@ -1,4 +1,4 @@
-body, input, button, input#entry, .wrapper-main, #footer, #container, .content-main, #wrapper, #results .languageBox.source, #bitexte .languageBox.source, #results .languageBox, #bitexte .languageBox, div.rating, .languageRow.row2, .languageRow.row1, .languageRow.selected, div#ui-tooltip-23, #footer .footerBlue, div#dialog-loading, #examples-content .example:hover, div.src, div.trg, div.options, .popup .body, #keyboardInputMaster {
+body, input, button, input#entry, .wrapper-main, #footer, #container, .content-main, #wrapper, #results .languageBox.source, #bitexte .languageBox.source, #results .languageBox, #bitexte .languageBox, div.rating, .languageRow.row2, .languageRow.row1, .languageRow.selected, div#ui-tooltip-23, #footer .footerBlue, div#dialog-loading, #examples-content .example:hover, div.src, div.trg, div.options, .popup .body, #keyboardInputMaster, .documents-link span, #search-links, #synonyms-button {
   background: #222222 !important;
 }
 
@@ -20,6 +20,10 @@ a {
 
 b, a:visited, #top-results .detailed-view, #search-input .icon:hover {
   color: #ccc !important;
+}
+
+#search-input, .selector {
+    background-color: #222222;
 }
 
 a:link {
@@ -122,7 +126,7 @@ em {
   color: #9a9a9a !important;
 }
 
-div.badges, #top-menu.open .space-filler, #synonyms-promotional-bar, #extension-badge, #home-badges {
+div.badges, #top-menu.open .space-filler, #synonyms-promotional-bar, #extension-badge, #home-badges, #documents-banner, .home-banner-wrapper .pannel {
   display: none;
 }
 
@@ -145,4 +149,4 @@ div.badges, #top-menu.open .space-filler, #synonyms-promotional-bar, #extension-
 
 
 /* Created by Enzo Doyen.
-2016-2018 - All rights reserved */
+2016-2020 - All rights reserved */
