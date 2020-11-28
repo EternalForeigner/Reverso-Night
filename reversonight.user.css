@@ -1,4 +1,13 @@
-body, input, button, input#entry, .wrapper-main, #footer, #container, .content-main, #wrapper, #results .languageBox.source, #bitexte .languageBox.source, #results .languageBox, #bitexte .languageBox, div.rating, .languageRow.row2, .languageRow.row1, .languageRow.selected, div#ui-tooltip-23, #footer .footerBlue, div#dialog-loading, #examples-content .example:hover, div.src, div.trg, div.options, .popup .body, #keyboardInputMaster, .documents-link span, #search-links, #synonyms-button {
+/* ==UserStyle==
+@name           Reverso Night
+@namespace      https://github.com/Spidersouris/Reverso-Night/
+@version        1.1.0
+@description    Reverso Context Dark Mode
+@author         Enzo Doyen
+==/UserStyle== */
+
+@-moz-document domain("context.reverso.net") {
+    body, input, button, input#entry, .wrapper-main, #footer, #container, .content-main, #wrapper, #results .languageBox.source, #bitexte .languageBox.source, #results .languageBox, #bitexte .languageBox, div.rating, .languageRow.row2, .languageRow.row1, .languageRow.selected, div#ui-tooltip-23, #footer .footerBlue, div#dialog-loading, #examples-content .example:hover, div.src, div.trg, div.options, .popup .body, #keyboardInputMaster, .documents-link span, #search-links, #synonyms-button {
   background: #222222 !important;
 }
 
@@ -149,4 +158,6 @@ div.badges, #top-menu.open .space-filler, #synonyms-promotional-bar, #extension-
 
 
 /* Created by Enzo Doyen.
-2016-2020 - All rights reserved */
+2016-2021 - All rights reserved */
+
+}
